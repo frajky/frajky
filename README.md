@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frajky
 
 <!---
-frajky/moje.
+frajky/tuya-phmonitor
 --->
